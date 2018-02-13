@@ -1,0 +1,22 @@
+{
+  "name": "jcarlin.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcarlin/jcarlin.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcarlin/jcarlin.github.io/issues"
+  },
+  "homepage": "https://github.com/jcarlin/jcarlin.github.io#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

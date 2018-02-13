@@ -1,0 +1,45 @@
+html, body {
+  width: 100%;
+  height: 100%;
+}
+
+#container {
+  padding: 20px 150px 20px 100px
+}
+
+#content-contact {
+  text-align: center;
+}
+
+#content-job {
+  padding-bottom: 10px;
+}
+
+h2 {
+  margin-bottom: 0px;
+}
+
+table {
+  padding: 10px 20px 10px 10px
+}
+
+th, td {
+  text-align: left;
+  padding: 5px;
+}
+
+.date {
+  float: right;
+}
+
+.location {
+  float: right;
+}
+
+.title {
+  padding-left: 10px;
+}
+
+.description {
+  width: 75%;
+}
